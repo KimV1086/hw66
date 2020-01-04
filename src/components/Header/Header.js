@@ -6,7 +6,7 @@ const Header = () => {
     return (
         <header>
             <nav className="navbar navbar-dark  bg-secondary">
-                <NavLink to="/" className="navbar-brand">JS_GROUP_5_KIM_VITALIk</NavLink>
+                <NavLink to="/" className="navbar-brand">JS_GROUP_5_KIM_VITALIY</NavLink>
                 <Navigation/>
             </nav>
         </header>
